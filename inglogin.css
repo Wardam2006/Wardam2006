@@ -1,0 +1,93 @@
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.group {
+    background-color: 
+    width: 300px;
+    height: 700px;
+}
+.Instagram {
+    margin-top: 50px;
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    margin-left: 50px;
+}
+.center {
+    margin-left: 100px;
+    
+}
+.search {
+   margin-top: 50px;
+    
+    
+}
+button {
+    color: blue;
+    width: 280px;
+    height: 27px;   
+    background-color: #0095f6;
+    border: none;
+    border-radius: 3px;
+}
+span {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+i {
+   
+}
+.OR {
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 20px;
+}
+input {
+    width: 280px;
+    height: 35px;
+    border: none;    
+    border-radius: 3px;
+    background-color: #F0F0F0 ;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    
+}
+.password {
+    display: flex;
+    justify-content: flex-end;
+}
+a {
+    color: #0098F8;
+    text-decoration: none;
+    margin-top: 
+    margin-right: 
+    
+   
+}
+.login {
+    margin-top: 30px;
+}
+.log {
+    width: 290px;
+    opacity: 0.4;
+}
+.gg {
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+}
+.mm {
+    margin-top: 16px;
+    margin-left: 5px;
+    font-family: 'Roboto', sans-serif;
+}
+p {
+    display: inline-block;
+    margin-left: 15px;
+    padding-left: 15px;
+    
+}
